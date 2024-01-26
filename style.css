@@ -1,0 +1,49 @@
+.first {
+    border: 2px solid orange;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.second {
+    border: 4px dashed green;
+    margin-bottom: 30px;
+}
+.third {
+    border: 4px dotted black;
+}
+.geeks__title {
+    color: green;
+}
+.geeks-first {
+    border: 2px solid black;
+    text-align: left;
+    margin-bottom: 30px;
+}
+.geeks-second {
+    border: 2px solid black;
+    text-align: right;
+    margin-bottom: 30px;
+}
+.geeks-third {
+    border: 2px solid black;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.geeks-fourth {
+    border: 2px solid black;
+    text-align: justify;
+}
+.line-heigh-first {
+    border: 2px solid black;
+}
+.line-heigh-first p {
+    line-height: normal;
+}
+.line-heigh-second p {
+    line-height: 200%;
+}
+.line-heigh-second {
+    border: 2px solid black;
+}
+.word-spacing {
+    word-spacing: 20px;
+}
